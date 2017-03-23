@@ -1,3 +1,5 @@
+/* 二分。cover()判断是否为解。*/
+
 #include<stdio.h>
 #include<iostream>
 #include <algorithm>

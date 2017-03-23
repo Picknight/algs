@@ -1,3 +1,5 @@
+/* 将 * 扩展为四个任意字符。经典字符串动态规划。*/
+
 #include<stdio.h>
 #include<iostream>
 #include <algorithm>
