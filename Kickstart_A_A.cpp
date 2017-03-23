@@ -1,3 +1,5 @@
+/* 复杂度为 N 的解法很容易想到，但是这种解法过不了 large。需要将其化简，得到 O(1) 的算法。*/
+
 #include<stdio.h>
 #include<iostream>
 #include <algorithm>
